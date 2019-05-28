@@ -1,4 +1,4 @@
-FROM Ubuntu:Latest 
+FROM python:3 
 
 LABEL Mainainer="Rashi"
 LABEL Vesrion="0.0.1"
